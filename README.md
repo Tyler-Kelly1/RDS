@@ -1,2 +1,1 @@
-# RTRDS
-Rotten Tomatoes Review Data Scrapper 
+# Rotten Tomatoes Review Data Scrapper 
