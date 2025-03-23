@@ -1,5 +1,5 @@
 #importing the Scrapper Class
-from simpleRTScrapper import simpleRTScraper
+from Classes.simpleRTScrapper import simpleRTScraper
 
 myScraper = simpleRTScraper("Electric State")
 
