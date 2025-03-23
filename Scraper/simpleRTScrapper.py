@@ -205,23 +205,3 @@ Movie ID: {self.titleID}
     
     def getReviews(self, outputFn: str, batchSize = 20):
         self._mineReviws(self.titleID, outputFn, batchSize = batchSize)
-    
-
-
-
-
-        
-
-
-
-
-         
-
-
-
-
-
-
-
-
-    
